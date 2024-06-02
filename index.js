@@ -10,3 +10,4 @@ let timerShort  // Added on 2024-06-02 15:44:42.877566
 let publicationIndexOld = -1;  // Added on 2024-06-02 16:01:08.332727
   // Added on 2024-06-02 16:33:35.112540
 // Масив для додавання кнопок Join Lucky Draw публікацій з потрібними Lucky Draw, щоб прийняти у них участь  // Added on 2024-06-02 21:26:15.210777
+// let arrayLuckyDrawButtonJoin = []  // Added on 2024-06-02 21:32:39.761175
