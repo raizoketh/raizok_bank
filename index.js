@@ -7,3 +7,4 @@ let timerLong  // Added on 2024-06-02 15:42:31.874122
 let timerShort  // Added on 2024-06-02 15:44:42.877566
   // Added on 2024-06-02 15:57:46.781148
 // Номер попередньо обробленої публікації  // Added on 2024-06-02 16:00:08.696225
+let publicationIndexOld = -1;  // Added on 2024-06-02 16:01:08.332727
