@@ -14,3 +14,4 @@ let publicationIndexOld = -1;  // Added on 2024-06-02 16:01:08.332727
   // Added on 2024-06-02 21:34:20.197539
 // Отримати значення з localStorage за ключем "countLuckyDraw"  // Added on 2024-06-02 21:54:55.386107
 let countLuckyDrawString = localStorage.getItem("countLuckyDraw");  // Added on 2024-06-02 21:58:51.792545
+// Перетворити рядкове значення в ціле число  // Added on 2024-06-03 21:32:21.938461
