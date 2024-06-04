@@ -17,3 +17,4 @@ let countLuckyDrawString = localStorage.getItem("countLuckyDraw");  // Added on 
 // Перетворити рядкове значення в ціле число  // Added on 2024-06-03 21:32:21.938461
 let countLuckyDraw = parseInt(countLuckyDrawString, 10);  // Added on 2024-06-03 23:01:51.783231
   // Added on 2024-06-03 23:04:39.056687
+// Перевірити, чи вдалося успішно перетворити в ціле число  // Added on 2024-06-04 21:19:15.632628
