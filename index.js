@@ -18,3 +18,4 @@ let countLuckyDrawString = localStorage.getItem("countLuckyDraw");  // Added on 
 let countLuckyDraw = parseInt(countLuckyDrawString, 10);  // Added on 2024-06-03 23:01:51.783231
   // Added on 2024-06-03 23:04:39.056687
 // Перевірити, чи вдалося успішно перетворити в ціле число  // Added on 2024-06-04 21:19:15.632628
+if (!isNaN(countLuckyDraw)) {  // Added on 2024-06-05 22:39:58.041976
