@@ -20,3 +20,4 @@ let countLuckyDraw = parseInt(countLuckyDrawString, 10);  // Added on 2024-06-03
 // Перевірити, чи вдалося успішно перетворити в ціле число  // Added on 2024-06-04 21:19:15.632628
 if (!isNaN(countLuckyDraw)) {  // Added on 2024-06-05 22:39:58.041976
 // Значення успішно перетворено в ціле число  // Added on 2024-06-06 20:22:46.187821
+// console.log("Значення countLuckyDraw в форматі int:", countLuckyDraw);  // Added on 2024-06-06 21:39:02.392495
