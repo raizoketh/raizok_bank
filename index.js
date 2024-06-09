@@ -23,3 +23,4 @@ if (!isNaN(countLuckyDraw)) {  // Added on 2024-06-05 22:39:58.041976
 // console.log("Значення countLuckyDraw в форматі int:", countLuckyDraw);  // Added on 2024-06-06 21:39:02.392495
 } else {  // Added on 2024-06-07 22:56:48.527697
 // Не вдалося перетворити значення в ціле число  // Added on 2024-06-08 22:35:53.538887
+countLuckyDraw = 0  // Added on 2024-06-09 09:51:37.485287
