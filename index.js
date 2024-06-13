@@ -27,3 +27,4 @@ countLuckyDraw = 0  // Added on 2024-06-09 09:51:37.485287
 }  // Added on 2024-06-10 20:54:17.996903
   // Added on 2024-06-12 21:17:26.821660
 function go() {  // Added on 2024-06-12 21:18:10.161149
+let arrayLuckyDraw = publicationSelection()  // Added on 2024-06-13 21:25:02.178311
