@@ -29,3 +29,4 @@ countLuckyDraw = 0  // Added on 2024-06-09 09:51:37.485287
 function go() {  // Added on 2024-06-12 21:18:10.161149
 let arrayLuckyDraw = publicationSelection()  // Added on 2024-06-13 21:25:02.178311
 let count = arrayLuckyDraw.length  // Added on 2024-06-13 21:25:34.683266
+if(count) {  // Added on 2024-06-14 21:59:33.469948
