@@ -33,3 +33,4 @@ if(count) {  // Added on 2024-06-14 21:59:33.469948
 let arrayLuckyDrawButtonJoin = arrayLuckyDraw  // Added on 2024-06-14 22:00:05.788658
 iterateArrayLuckyDrawButtonJoin(arrayLuckyDrawButtonJoin)  // Added on 2024-06-15 20:43:04.545929
 timerLong = setTimeout(go, count * 10000)  // Added on 2024-06-16 14:33:17.696341
+// Якщо прийнято участь у 40 або більше Lucky Draw зупинити повтори функції  // Added on 2024-06-17 20:28:48.314395
