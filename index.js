@@ -39,3 +39,4 @@ clearTimeout(timerLong)  // Added on 2024-06-20 22:43:50.095986
 }  // Added on 2024-06-23 14:46:01.973417
 }  // Added on 2024-06-24 21:20:13.321008
 else {  // Added on 2024-06-24 22:22:44.596694
+timerShort = setTimeout(go, 500)  // Added on 2024-06-25 20:23:05.024193
