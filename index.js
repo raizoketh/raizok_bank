@@ -41,3 +41,4 @@ clearTimeout(timerLong)  // Added on 2024-06-20 22:43:50.095986
 else {  // Added on 2024-06-24 22:22:44.596694
 timerShort = setTimeout(go, 500)  // Added on 2024-06-25 20:23:05.024193
 // Якщо прийнято участь у 40 або більше Lucky Draw зупинити повтори функції  // Added on 2024-06-27 07:35:36.687431
+if(countLuckyDraw >= 100) {  // Added on 2024-06-28 23:09:53.298513
