@@ -48,3 +48,4 @@ clearTimeout(timerShort)  // Added on 2024-06-28 23:11:03.004369
 }  // Added on 2024-07-03 21:14:51.310185
   // Added on 2024-07-04 21:57:37.921783
 // Відібрати публікації з потрібними Lucky Draw і повернути у вигляді масиву  // Added on 2024-07-05 21:32:42.492309
+function publicationSelection() {  // Added on 2024-07-06 20:33:43.786342
