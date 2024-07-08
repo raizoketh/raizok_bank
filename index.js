@@ -51,3 +51,4 @@ clearTimeout(timerShort)  // Added on 2024-06-28 23:11:03.004369
 function publicationSelection() {  // Added on 2024-07-06 20:33:43.786342
 let arrayLuckyDraw = []  // Added on 2024-07-07 14:22:59.064275
 // Анімований скрол вниз на 500px, щоб на початку кожного виконання опрацьовувати нові публікації  // Added on 2024-07-07 14:23:08.737436
+scrollToY(500)  // Added on 2024-07-08 21:44:42.263061
