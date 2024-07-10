@@ -53,3 +53,4 @@ let arrayLuckyDraw = []  // Added on 2024-07-07 14:22:59.064275
 // Анімований скрол вниз на 500px, щоб на початку кожного виконання опрацьовувати нові публікації  // Added on 2024-07-07 14:23:08.737436
 scrollToY(500)  // Added on 2024-07-08 21:44:42.263061
 // Відібрати масив публікацій  // Added on 2024-07-09 22:20:54.547911
+let arrayPublications = Array.from(document.querySelector(`[data-test-id="virtuoso-item-list"]`).children);  // Added on 2024-07-10 20:13:19.614528
