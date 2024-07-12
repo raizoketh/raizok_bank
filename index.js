@@ -56,3 +56,4 @@ scrollToY(500)  // Added on 2024-07-08 21:44:42.263061
 let arrayPublications = Array.from(document.querySelector(`[data-test-id="virtuoso-item-list"]`).children);  // Added on 2024-07-10 20:13:19.614528
 arrayPublications.forEach((element) => {  // Added on 2024-07-11 20:39:16.261358
 // Номер поточної публікації  // Added on 2024-07-11 20:39:35.250665
+let publicationIndex = parseInt(element.getAttribute('data-index'), 10);  // Added on 2024-07-12 21:47:45.168645
