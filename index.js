@@ -57,3 +57,4 @@ let arrayPublications = Array.from(document.querySelector(`[data-test-id="virtuo
 arrayPublications.forEach((element) => {  // Added on 2024-07-11 20:39:16.261358
 // Номер поточної публікації  // Added on 2024-07-11 20:39:35.250665
 let publicationIndex = parseInt(element.getAttribute('data-index'), 10);  // Added on 2024-07-12 21:47:45.168645
+  // Added on 2024-07-13 20:09:03.352916
