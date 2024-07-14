@@ -59,3 +59,4 @@ arrayPublications.forEach((element) => {  // Added on 2024-07-11 20:39:16.261358
 let publicationIndex = parseInt(element.getAttribute('data-index'), 10);  // Added on 2024-07-12 21:47:45.168645
   // Added on 2024-07-13 20:09:03.352916
 // Перевірка, чи номер публікації не меньший за попередню публікацію, щоб не робити повторних обробок  // Added on 2024-07-14 09:21:09.998321
+if (publicationIndexOld < publicationIndex) {  // Added on 2024-07-14 21:25:50.555100
