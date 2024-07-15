@@ -60,3 +60,4 @@ let publicationIndex = parseInt(element.getAttribute('data-index'), 10);  // Add
   // Added on 2024-07-13 20:09:03.352916
 // Перевірка, чи номер публікації не меньший за попередню публікацію, щоб не робити повторних обробок  // Added on 2024-07-14 09:21:09.998321
 if (publicationIndexOld < publicationIndex) {  // Added on 2024-07-14 21:25:50.555100
+const cashPrize = element.querySelector('span.DrawCard_prizeName__wQDZ-')  // Added on 2024-07-15 22:16:41.292494
