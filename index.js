@@ -64,3 +64,4 @@ const cashPrize = element.querySelector('span.DrawCard_prizeName__wQDZ-')  // Ad
 const countPrize = element.querySelector(`[class="DrawCard_prizeCount__L+xaL"]`)  // Added on 2024-07-16 20:26:45.574981
   // Added on 2024-07-17 22:01:36.905391
 // Перевірка, чи містить елемент Lucky Draw  // Added on 2024-07-18 20:14:24.586804
+if (cashPrize && countPrize) {  // Added on 2024-07-19 21:53:03.711758
