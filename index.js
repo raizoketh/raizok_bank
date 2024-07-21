@@ -66,3 +66,4 @@ const countPrize = element.querySelector(`[class="DrawCard_prizeCount__L+xaL"]`)
 // Перевірка, чи містить елемент Lucky Draw  // Added on 2024-07-18 20:14:24.586804
 if (cashPrize && countPrize) {  // Added on 2024-07-19 21:53:03.711758
 // Вилучаємо текст з елементів  // Added on 2024-07-20 22:21:40.190227
+const cashPrizeText = cashPrize.textContent || cashPrize.innerText  // Added on 2024-07-21 13:56:41.823245
