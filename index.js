@@ -68,3 +68,4 @@ if (cashPrize && countPrize) {  // Added on 2024-07-19 21:53:03.711758
 // Вилучаємо текст з елементів  // Added on 2024-07-20 22:21:40.190227
 const cashPrizeText = cashPrize.textContent || cashPrize.innerText  // Added on 2024-07-21 13:56:41.823245
 const countPrizeText = countPrize.textContent || countPrize.innerText  // Added on 2024-07-22 21:12:55.903552
+  // Added on 2024-07-23 20:38:36.194261
