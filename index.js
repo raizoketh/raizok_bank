@@ -70,3 +70,4 @@ const cashPrizeText = cashPrize.textContent || cashPrize.innerText  // Added on 
 const countPrizeText = countPrize.textContent || countPrize.innerText  // Added on 2024-07-22 21:12:55.903552
   // Added on 2024-07-23 20:38:36.194261
 // Перевірка, чи містить текст елемента знак "$"  // Added on 2024-07-23 20:40:37.776947
+if (cashPrizeText.includes('$')) {  // Added on 2024-07-24 21:54:31.252078
