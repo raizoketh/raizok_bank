@@ -72,3 +72,4 @@ const countPrizeText = countPrize.textContent || countPrize.innerText  // Added 
 // Перевірка, чи містить текст елемента знак "$"  // Added on 2024-07-23 20:40:37.776947
 if (cashPrizeText.includes('$')) {  // Added on 2024-07-24 21:54:31.252078
 // Вилучити знак "$"  // Added on 2024-07-25 21:51:43.633115
+let numberWithoutDollar = parseInt(cashPrizeText.replace('$', ''), 10);  // Added on 2024-07-26 20:29:30.791611
