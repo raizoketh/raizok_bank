@@ -77,3 +77,4 @@ let numberWithoutDollar = parseInt(cashPrizeText.replace('$', ''), 10);  // Adde
 let numberWithoutX = parseInt(countPrizeText.match(/\d+/)[0]);  // Added on 2024-07-28 10:22:44.633789
   // Added on 2024-07-29 22:17:19.067113
 // Виконуємо перевірку щоб прийняти участь у Lucky Draw які або більші neededSizeLuckyDraw або кількість преможців >= neededNumberLuckyDraw  // Added on 2024-07-30 20:20:48.528502
+if (!isNaN(numberWithoutDollar) && (numberWithoutDollar >= neededSizeLuckyDraw || numberWithoutX >= neededNumberLuckyDraw)) {  // Added on 2024-07-31 21:17:32.525298
