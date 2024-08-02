@@ -80,3 +80,4 @@ let numberWithoutX = parseInt(countPrizeText.match(/\d+/)[0]);  // Added on 2024
 if (!isNaN(numberWithoutDollar) && (numberWithoutDollar >= neededSizeLuckyDraw || numberWithoutX >= neededNumberLuckyDraw)) {  // Added on 2024-07-31 21:17:32.525298
 let LuckyDrawButtonJoin = element.querySelector('.DrawCard_drawCard__GWy1t').querySelector('button')  // Added on 2024-08-01 20:52:52.871296
 if(LuckyDrawButtonJoin) {  // Added on 2024-08-02 21:30:18.983597
+// Додаємо потрібну публікацію з Lucky Draw у масив  // Added on 2024-08-02 21:30:24.464779
