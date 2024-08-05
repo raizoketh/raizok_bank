@@ -83,3 +83,4 @@ if(LuckyDrawButtonJoin) {  // Added on 2024-08-02 21:30:18.983597
 // Додаємо потрібну публікацію з Lucky Draw у масив  // Added on 2024-08-02 21:30:24.464779
 arrayLuckyDraw.push(element)  // Added on 2024-08-03 21:23:47.578531
 console.log(currentDateShow() + 'Lucky Draw ' + numberWithoutDollar + '$ x ' + numberWithoutX);  // Added on 2024-08-04 20:47:11.466258
+}  // Added on 2024-08-05 22:08:38.765641
