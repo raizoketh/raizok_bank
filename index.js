@@ -85,3 +85,4 @@ arrayLuckyDraw.push(element)  // Added on 2024-08-03 21:23:47.578531
 console.log(currentDateShow() + 'Lucky Draw ' + numberWithoutDollar + '$ x ' + numberWithoutX);  // Added on 2024-08-04 20:47:11.466258
 }  // Added on 2024-08-05 22:08:38.765641
 else {  // Added on 2024-08-06 21:59:37.351441
+// console.log(currentDateShow() + 'Кнопка Join the Draw відсутня');  // Added on 2024-08-08 20:45:36.669916
