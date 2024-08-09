@@ -86,3 +86,4 @@ console.log(currentDateShow() + 'Lucky Draw ' + numberWithoutDollar + '$ x ' + n
 }  // Added on 2024-08-05 22:08:38.765641
 else {  // Added on 2024-08-06 21:59:37.351441
 // console.log(currentDateShow() + 'Кнопка Join the Draw відсутня');  // Added on 2024-08-08 20:45:36.669916
+// Анімована прокрутка до самого верху  // Added on 2024-08-09 07:45:55.582756
