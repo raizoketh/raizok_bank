@@ -92,3 +92,4 @@ else {  // Added on 2024-08-06 21:59:37.351441
 }  // Added on 2024-08-12 21:25:20.036138
 // else console.log(currentDateShow() + 'Lucky Draw менше ' + neededSizeLuckyDraw + '$, або кількість нагород менше' + neededNumberLuckyDraw);  // Added on 2024-08-13 22:38:57.526687
 }  // Added on 2024-08-17 22:06:48.890200
+// else console.log(currentDateShow() + 'Lucky Draw не на $');  // Added on 2024-08-18 16:22:02.476602
