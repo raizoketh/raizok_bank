@@ -94,3 +94,4 @@ else {  // Added on 2024-08-06 21:59:37.351441
 }  // Added on 2024-08-17 22:06:48.890200
 // else console.log(currentDateShow() + 'Lucky Draw не на $');  // Added on 2024-08-18 16:22:02.476602
 }  // Added on 2024-08-20 21:21:21.676475
+// else console.log(currentDateShow() + `У публікації відсутній Lucky Draw`);  // Added on 2024-08-25 21:20:30.743014
