@@ -97,3 +97,4 @@ else {  // Added on 2024-08-06 21:59:37.351441
 // else console.log(currentDateShow() + `У публікації відсутній Lucky Draw`);  // Added on 2024-08-25 21:20:30.743014
 // Присвоюємо значення атрибуту обробленого елемента  // Added on 2024-08-28 21:07:03.986491
 publicationIndexOld = publicationIndex;  // Added on 2024-08-29 20:46:15.725030
+// console.log(currentDateShow() + 'Публікація під номером: ' + publicationIndex)  // Added on 2024-08-31 14:09:52.645777
