@@ -99,3 +99,4 @@ else {  // Added on 2024-08-06 21:59:37.351441
 publicationIndexOld = publicationIndex;  // Added on 2024-08-29 20:46:15.725030
 // console.log(currentDateShow() + 'Публікація під номером: ' + publicationIndex)  // Added on 2024-08-31 14:09:52.645777
 }  // Added on 2024-09-01 20:42:52.297753
+});  // Added on 2024-09-03 20:48:33.985483
