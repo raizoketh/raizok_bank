@@ -103,3 +103,4 @@ publicationIndexOld = publicationIndex;  // Added on 2024-08-29 20:46:15.725030
 return arrayLuckyDraw  // Added on 2024-09-04 21:55:29.053571
 }  // Added on 2024-09-05 22:52:22.568411
   // Added on 2024-09-05 22:52:29.654172
+// Проходимо по кожній кнопці з потрібним Lucky Draw і з інтервалом у 10с приймаємо у них участь  // Added on 2024-09-23 22:05:48.864543
