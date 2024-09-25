@@ -106,3 +106,4 @@ return arrayLuckyDraw  // Added on 2024-09-04 21:55:29.053571
 // Проходимо по кожній кнопці з потрібним Lucky Draw і з інтервалом у 10с приймаємо у них участь  // Added on 2024-09-23 22:05:48.864543
 function iterateArrayLuckyDrawButtonJoin(array) {  // Added on 2024-09-24 22:24:12.799276
 if (array.length > 0) {  // Added on 2024-09-25 07:07:17.131635
+// Функція для рекурсивного виклику  // Added on 2024-09-25 20:36:42.222312
