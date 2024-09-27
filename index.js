@@ -108,3 +108,4 @@ function iterateArrayLuckyDrawButtonJoin(array) {  // Added on 2024-09-24 22:24:
 if (array.length > 0) {  // Added on 2024-09-25 07:07:17.131635
 // Функція для рекурсивного виклику  // Added on 2024-09-25 20:36:42.222312
 function processElement(index) {  // Added on 2024-09-26 21:45:37.917291
+if (index < array.length) {  // Added on 2024-09-27 21:09:41.411145
