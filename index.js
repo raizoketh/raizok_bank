@@ -110,3 +110,4 @@ if (array.length > 0) {  // Added on 2024-09-25 07:07:17.131635
 function processElement(index) {  // Added on 2024-09-26 21:45:37.917291
 if (index < array.length) {  // Added on 2024-09-27 21:09:41.411145
 // Клік на елементі через 0.5 секунду  // Added on 2024-09-28 21:33:39.096321
+buttonClick(array[index].querySelector('.DrawCard_drawCard__GWy1t').querySelector('button'), 1000);  // Added on 2024-09-29 10:38:36.810125
